@@ -2,7 +2,7 @@
 title: ICPC Contest Environment
 email: kj@ubergeek42.com
 description: > # this means to ignore newlines until "baseurl:"
-  All about the Linux image that is used for the ACM Southeast Region ICPC.
+  All about the Linux image that is used for the ACM Southeast USA Regional ICPC.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://icpc-environment.github.io" # the base hostname & protocol for your site
 github_username:  icpc-environment
